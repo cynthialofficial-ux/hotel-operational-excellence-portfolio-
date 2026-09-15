@@ -1,25 +1,28 @@
-# Hotel Operational Excellence & Profitability Portfolio
+# Operational Excellence & Profitability - Hospitality Work Sample
 
-Independent portfolio case study by Yaxiya (Cynthia) Li.
+Independent professional work sample by Yaxiya (Cynthia) Li.
 
-This project demonstrates a structured approach to hotel operational excellence and profitability analysis, including:
+This project demonstrates a structured approach to:
 
-- Budget / Actual / Forecast P&L analysis
-- Occupancy, ADR, RevPAR and GOP / GOPPAR
+- P&L and KPI variance diagnosis
 - Price-Volume-Mix analysis
-- Labour variance analysis
+- Labour and F&B cost decomposition
 - Scenario modelling
-- ROI / NPV and benefits tracking
-- Guest-experience guardrails
+- Risk-adjusted business-case evaluation
+- Benefits tracking, baseline controls and attribution governance
+
+## Files
+
+- `index.html` - portfolio landing page
+- `Operational_Excellence_Profitability_Hospitality_Executive_Brief.pdf` - one-page executive decision brief
+- `Operational_Excellence_Profitability_Hospitality_Supporting_Model.xlsx` - formula-driven supporting model
+- `linkedin-thumbnail.png` - LinkedIn project thumbnail
 
 ## Important note
 
-This is an independent professional-development case study using synthetic data.
-
-No Mandarin Oriental, Rio Tinto, Emirates, or other employer/client confidential data has been used.
+All figures, assumptions and outputs are synthetic and illustrative. This is a self-directed professional work sample and does not represent a client engagement, employer data, hotel operating experience or realised business results.
 
 ## Author
 
 Yaxiya (Cynthia) Li  
-Brisbane, Australia | Open to relocation to Hong Kong  
 LinkedIn: https://www.linkedin.com/in/cynthia-yaxiya-li
